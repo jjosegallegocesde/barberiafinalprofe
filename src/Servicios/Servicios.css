@@ -1,0 +1,8 @@
+.blancoNegro{
+    filter: grayscale(100%);
+    transition: transform .3s;
+}
+
+.blancoNegro:hover{
+    transform: scale(1.05);
+}
